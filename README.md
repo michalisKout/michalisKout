@@ -1,4 +1,4 @@
-![header image](https://github.com/michalisKout/michalisKout/blob/master/header-img.png)
+![header image](https://github.com/michalisKout/michalisKout/blob/master/header-img-1.png)
 
 
 ### Hi there 👋
