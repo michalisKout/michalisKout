@@ -1,3 +1,6 @@
+![header image](https://github.com/michalisKout/michalisKout/blob/master/header-img.png)
+
+
 ### Hi there 👋
 
 Hey, I'm Michael. Here you can find all of my projects or the ones I have contribute. Most of them made for practicing in specific technologies, design patterns, and best practices of web development.
