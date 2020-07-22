@@ -4,8 +4,8 @@
 
 Hey, I'm Michael. Here you can find all of my projects or the ones I have contribute. Most of them made for practicing in specific technologies, design patterns, and best practices of web development.
 
--   :microscope: I’m currently working on [Orfium](https://www.orfium.com/) I am mainly focused on handling cutting-edge front-end web technologies with also a strong understanding of back-end technologies.
--   :books: I love reading books about software development concepts like SOLID and Clean Architecture.
+-   :microscope: I’m currently working on [Orfium](https://www.orfium.com/). I am mainly focused on handling cutting-edge front-end web technologies with also a strong understanding of back-end technologies.
+-   :books: I love reading books about principles of object-oriented programming like SOLID and software design philosophies like Clean Architecture.
 <!--
 **michalisKout/michalisKout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
