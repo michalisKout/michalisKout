@@ -1,5 +1,12 @@
 ![header image](https://github.com/michalisKout/michalisKout/blob/master/img-header.png)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=michalisKout&show_icons=true&theme=dark)
 
+### My favourite projects :star:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=michalisKout&repo=noteup-public)](https://github.com/michalisKout/noteup-public)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=michalisKout&repo=academy-book)](https://github.com/michalisKout/academy-book)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=michalisKout&repo=music-app)](https://github.com/michalisKout/music-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=michalisKout&repo=meetup-app)](https://github.com/michalisKout/meetup-app)
 ### Hi there 👋
 
 Hey, I'm Michael. Here you can find all of my projects or the ones I have contribute. Most of them made for practicing in specific technologies, design patterns, and best practices of web development.
