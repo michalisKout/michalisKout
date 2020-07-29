@@ -6,7 +6,7 @@ Hey, I'm Michael. Here you can find all of my projects or the ones I have contri
 -   :microscope: I’m currently working on [Orfium](https://www.orfium.com/). I am mainly focused on handling cutting-edge front-end web technologies with also a strong understanding of back-end technologies.
 -   :books: I love reading books about principles of object-oriented programming like SOLID and software design philosophies like Clean Architecture.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=michalisKout&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=michalisKout&show_icons=true)
 
 ### My favourite projects :star:
 
