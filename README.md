@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">sr. software engineer @ blueground</h3>
+<h3 align="center">sr. software engineer @ NextDot</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaliskout&no-frame=true&theme=chalk&row=2&rank=S,SS,SSS,AAA,AA,A,-C,-B" alt="michaliskout" /></a> </p>
 
