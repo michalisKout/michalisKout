@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">sr. software engineer @ NextDot</h3>
+<h3 align="center">sr. software engineer</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaliskout&" alt="michaliskout" /></p>
 
